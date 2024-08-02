@@ -1,0 +1,91 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Dobson Dunavant",
+    "url": "https://dobsond.dev",
+    "image": "https://dobsond.dev/profile-image.jpg",
+    "jobTitle": "Full-Stack Software Engineer",
+    "alumniOf": [
+        {
+            "@type": "CollegeOrUniversity",
+            "name": "College of Charleston",
+            "degree": "BSc in Computer Science",
+            "endDate": "2024-05"
+        },
+        {
+            "@type": "CollegeOrUniversity",
+            "name": "College of Charleston",
+            "degree": "BA in Accounting",
+            "endDate": "2017-12"
+        }
+    ],
+    "knowsLanguage": "English, Spanish (Conversational)",
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Charleston",
+        "addressRegion": "SC",
+        "addressCountry": "USA"
+    },
+    "memberOf": [
+        {
+            "@type": "Organization",
+            "name": "Association for Computing Machinery (ACM)"
+        },
+        {
+            "@type": "Organization",
+            "name": "IEEE Computer Society"
+        }
+    ],
+    "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "(901) 356-4309",
+        "contactType": "Personal",
+        "email": "jdobsond3@gmail.com"
+    },
+    "sameAs": [
+        "https://www.linkedin.com/in/dobson-dunavant"
+    ],
+    "hasOccupation": [
+        {
+            "@type": "Occupation",
+            "name": "Robotics/Machine Learning Co-Op",
+            "organization": "College of Charleston/Mercedes-Benz Vans",
+            "description": "Developing a large-scale, autonomous inventory system using machine learning and AWS cloud services."
+        },
+        {
+            "@type": "Occupation",
+            "name": "Software Engineering Intern",
+            "organization": "Savvas Learning Company",
+            "description": "Developed accessibility solutions for ed-tech platform, enhanced API test coverage, and led hackathon projects."
+        },
+        {
+            "@type": "Occupation",
+            "name": "Data Engineering Intern",
+            "organization": "Fiscal Tracking and Spreading",
+            "description": "Assisted in full-stack re-architecture of a desktop app to a web application using React, AWS Lambda, and AWS RDS."
+        },
+        {
+            "@type": "Occupation",
+            "name": "Data Analyst / Scrum Master",
+            "organization": "Ceterus",
+            "description": "Led agile Scrum team, improved project lead time, and validated financial data pipelines."
+        }
+    ],
+    "worksFor": {
+        "@type": "Organization",
+        "name": "Self-employed",
+        "employee": {
+            "@type": "Person",
+            "name": "Dobson Dunavant"
+        }
+    },
+    "makesOffer": {
+        "@type": "Offer",
+        "itemOffered": {
+            "@type": "Service",
+            "name": "Software Development and Data Analysis Services",
+            "description": "Offering full-stack software development and data analysis services, specializing in modern technologies."
+        }
+    },
+    "description": "Aspiring full-stack software engineer with a proven history of delivering seamless, optimized solutions. I thrive in dynamic environments where creative problem-solving drives impactful results."
+}
