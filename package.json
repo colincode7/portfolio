@@ -1,0 +1,40 @@
+{
+  "name": "my-portfolio",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@types/node": "20.6.3",
+    "@types/react": "18.2.22",
+    "@types/react-dom": "18.2.7",
+    "@vercel/analytics": "^1.1.1",
+    "clsx": "^2.1.1",
+    "eslint": "8.49.0",
+    "eslint-config-next": "13.5.1",
+    "framer-motion": "^10.18.0",
+    "next": "^14.2.3",
+    "next-themes": "^0.2.1",
+    "node-cache": "^5.1.2",
+    "openai": "^4.19.0",
+    "postcss": "^8.4.38",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-icons": "^4.12.0",
+    "tailwind-merge": "^2.3.0",
+    "three": "^0.158.0",
+    "typed.js": "^2.1.0",
+    "typescript": "5.2.2",
+    "typewriter-effect": "^2.21.0",
+    "vanta": "^0.5.24"
+  },
+  "devDependencies": {
+    "@types/three": "^0.158.3",
+    "autoprefixer": "^10.4.19",
+    "tailwindcss": "^3.4.3"
+  }
+}

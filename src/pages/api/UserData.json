@@ -1,0 +1,337 @@
+{
+  "Name": "Dobson Dunavant",
+  "PersonalInformation": {
+    "CurrentLocation": "Charleston, SC",
+    "Birthplace": "Memphis, TN",
+    "Fan": "Grizzlies, Memphis Tigers, Liverpool FC, Borussia Dortmund",
+    "Phone": "(901) 356-4309",
+    "Email": "jdobsond3@gmail.com",
+    "Citizenship": "U.S. Citizen",
+    "LinkedIn": "linkedin.com/in/dobson-dunavant",
+    "Mission Statement": "Aspiring full-stack software engineer with a proven history of delivering seamless, optimized solutions through collaboration and innovation. I thrive in dynamic environments where creative problem-solving drives impactful results."
+  },
+  "Education": [
+    {
+      "Institution": "College of Charleston",
+      "Degree": "Bachelor in Computer Science",
+      "GPA": 3.8,
+      "Graduation": "May 2024"
+    },
+    {
+      "Institution": "College of Charleston",
+      "Degree": "Bachelor in Accounting",
+      "Graduation": "December 2018",
+      "AdditionalInfo": "D1 Soccer Player"
+    }
+  ],
+  "Skills": {
+    "Languages": [
+      "Python",
+      "Java",
+      "TypeScript",
+      "JavaScript",
+      "HTML",
+      "CSS"
+    ],
+    "Frameworks": [
+      "Next.js",
+      "Angular",
+      "React",
+      "Spring",
+      "Django",
+      "Flask",
+      "Express.js",
+      "Node.js"
+    ],
+    "Libraries": [
+      "Apollo",
+      "Axios",
+      "Prisma",
+      "ZBar",
+      "OpenCV",
+      "YOLOv8",
+      "PyTorch",
+      "pandas",
+      "PowerBI",
+      "Tableau"
+    ],
+    "Databases": [
+      "PostgreSQL",
+      "SQLite",
+      "MySQL",
+      "MongoDB"
+    ],
+    "CloudServicesAndDeveloperTools": [
+      "AWS (EC2, Lambda, S3, Athena, ElastiCache, SQS, RDS)",
+      "Firebase (Auth, Realtime DB)",
+      "Docker",
+      "WebSocket",
+      "GraphQL",
+      "OAuth 2.0",
+      "Git",
+      "Insomnia",
+      "Postman",
+      "JaCoCo",
+      "Karate",
+      "Jest"
+    ]
+  },
+  "Experiences": [
+    {
+      "Role": "Machine Learning and Robotics Co-Op",
+      "Company": "Mercedes-Benz, IFA Group",
+      "Location": "Charleston, SC",
+      "Period": "August 2023 – May 2024",
+      "Details": [
+        "Led team of 4 to deliver a 99% accurate, end-to-end inventory scanning system within 8 month deadline using React, Flask, PostgreSQL, AWS (EC2, S3, Athena), PyTorch, OpenCV, a DJI Matrice drone, and DJI’s Mobile SDK",
+        "Designed and implemented a portable Jetson Nano-based inventory scanning station for use in industrial settings using Django, OpenCV, Yolov8, Tesseract and restful HTTPS communications via AWS API Gateway to SAP APIs",
+        "Generalized the drone system at IFA beginning in Dec 2023 by using V-SLAM for localization and navigation with a custom 3D A* algorithm for dynamic, safe pathfinding during inventory scans"
+      ]
+    },
+    {
+      "Role": "Software Engineering Intern",
+      "Company": "Savvas Learning Company",
+      "Location": "Phoenix, AZ",
+      "Period": "May 2023 – August 2023",
+      "Details": [
+        "Developed full-stack solutions for Savvas Realize, a large-scale K-12 ed-tech platform, using Angular 16 micro front-ends, Apollo, GraphQL, RxJS, Spring, PostgreSQL, and Jest",
+        "Resolved 11 tickets across Agile sprints, such as optimizing GraphQL resolvers for batch data fetching and fixing accessibility issues within Angular UI components to meet WCAG 2.1 accessibility standards",
+        "Built an all-in-one Confluence knowledge hub, from new-dev onboarding guides to API sequence diagrams, improving team knowledge access and autonomy"
+      ]
+    },
+    {
+      "Role": "Data Engineering Intern",
+      "Company": "Vision Software Solutions",
+      "Location": "Charleston, SC",
+      "Period": "September 2022 – January 2023",
+      "Details": [
+        "Transitioned from a monolithic desktop app to a microservice web app using React, Django, PostgreSQL, and AWS services (EC2, Lambda, S3, Athena), enhancing system efficiency and scalability",
+        "Optimized API and query logic, utilizing AWS ElastiCache with in-memory data store for real-time data caching, reducing user load time by 23% (measured by AWS CloudWatch)",
+        "Containerized Python ETL tasks and credit scoring algorithms using Docker Containers, encapsulating isolated processes and minimizing single-point failures"
+      ]
+    },
+    {
+      "Role": "Solutions Engineer / Scrum Master",
+      "Company": "Ceterus",
+      "Location": "Charleston, SC",
+      "Period": "March 2018 – March 2021",
+      "Details": [
+        "Managed technical relationships with over 125 clients by translating technical features into tangible business benefits, leading to increased sales and enhanced customer engagement",
+        "Achieved a domain-high 23% year-over-year increase in customer retention by regular feedback sessions and personalized follow-ups, leading to stronger client relationships and satisfaction"
+      ]
+    }
+  ],
+  "Projects": [
+    {
+      "Name": "Brew AI-Powered Playlist Generator",
+      "Technologies": [
+        "Flutter",
+        "Dart",
+        "Django",
+        "Firebase Cloud Functions",
+        "Auth",
+        "Realtime Database",
+        "Storage",
+        "OpenAI & Spotify APIs",
+        "Codemagic CI/CD",
+        "Docker"
+      ],
+      "Description": "Cross-platform app that 'brews' a subjective user prompt then, using OpenAI's LLM, outputs a tailored music playlist. Showcases the ability to architect a cost and performance efficient, API-heavy development that contains a multi-layered web of API communications, ETLs, optimization algorithms, error handling and asynchronous programming.",
+      "SkillsUsedAndLearned": [
+        "Flutter",
+        "Dart",
+        "Django",
+        "Firebase cloud functions",
+        "firebase real time database",
+        "firebase authentication",
+        "multiple other firebase services",
+        "OpenAI APIs",
+        "Spotify APIs",
+        "Codemagic CI/CD",
+        "Docker"
+      ]
+    }
+  ],
+  "PersonalStatement": {
+    "Summary": "A passionate technology enthusiast with a diverse range of interests from sports to music. Committed to leveraging my extensive tech skills to develop innovative solutions, while balancing a creative and active lifestyle."
+  },
+  "FutureCertificationsAndCoursesThatIWantToGet": {
+    "Items": [
+      {
+        "Name": "AWS Certified Solutions Architect and further certificates",
+        "Institution": "Amazon Web Services",
+        "Year": 2024
+      }
+    ]
+  },
+  "TechnicalInterests": {
+    "Areas": [
+      "System Design",
+      "Requirements Engineering",
+      "Object-Oriented Programming",
+      "Cloud Computing",
+      "Artificial Intelligence",
+      "Optimization",
+      "API Development",
+      "Database Design",
+      "UI/UX Design",
+      "Robotics",
+      "Low Level C++ Algo Programming",
+      "Quantitative Trading and Technologies",
+      "Real-Time Data Streaming",
+      "Websockets"
+    ]
+  },
+  "SoftSkills": {
+    "Skills": [
+      "Team Leadership",
+      "Creative Problem Solving",
+      "Adaptability",
+      "Effective Communication"
+    ]
+  },
+  "HobbiesAndInterests": {
+    "Activities": [
+      "Concerts",
+      "Soccer",
+      "Fishing",
+      "Camping",
+      "Running",
+      "Hiking",
+      "Working Out",
+      "Drumming",
+      "Gaming",
+      "Skiing",
+      "Watching Sports"
+    ],
+    "Music": {
+      "BandRole": "Drummer",
+      "BandGenre": "Alternative, Punk, Grunge, Indie, Shoegaze, House, D&B, Dubstep, Trap"
+    },
+    "GamingAchievements": {
+      "Game": "Overwatch",
+      "Rank": "Top 10 overall in North America for 4 seasons"
+    },
+    "Sports": {
+      "Soccer": "Played competitive club soccer for all of my life through college, winning a couple state championships and going to national tournaments in Florida and Texas. Re-Founded the College of Charleston club soccer team, serving as captain for 2.5 years.",
+      "Tennis": "Played up until high school, was ranked #3 in the state of Tennessee for my age group for a few years.",
+      "FantasyFootball": "Enthusiast"
+    }
+  },
+  "VolunteerExperience": {
+    "Activities": [
+      {
+        "Role": "Meals on Wheels Volunteer",
+        "Organization": "MIFA (Metropolitan Inter-Faith Association)",
+        "Description": "Volunteer for Meals on Wheels in Memphis, TN - Delivering food to handicapped individuals around the city."
+      },
+      {
+        "Role": "Big Brother",
+        "Organization": "Big Brothers Big Sisters - Memphis, TN",
+        "Description": "Provided after-school tutoring and mentorship to at-risk children in Memphis, TN - Whether it be helping with math homework or talking through tough situations."
+      },
+      {
+        "Role": "Founder",
+        "Organization": "Cleats4Charity - Memphis, TN",
+        "Description": "Founded and managed Cleats4Charity - Performing city-wide sports equipment drives. The donations were then shipped to children across West Africa by L.A.C.E.S. I identified the absolutely massive seasonal turnover rate and waste of sports equipment, and positioned our organization to collect all of this unused sports equipment to give to kids who are in need. The joy it brought children and young adults in 3rd world situations was absolutely incredible.\n\nI partnered the organization with L.A.C.E.S, who provides the infrastructure to effectively distribute sports equipment to kids in need, as handling all of the logistics and distribution was far, far out of my scope. They really allowed me to make the idea a reality. https://www.laces.org/\n\nOur first year totaled: 3 tons (6613 lbs) of cleats, soccer balls, socks, shin guards, etc... distributed to many villages across West Africa."
+      }
+    ]
+  },
+  "FutureGoals": {
+    "ShortTerm": "Develop a cutting-edge tech project that combines AI and cloud computing. Software and networking in quantitative trading is also a focus.",
+    "LongTerm": "Lead a major tech initiative that makes a significant, positive impact on the industry and people's lives."
+  },
+  "OutdoorAdventures": {
+    "Experiences": [
+      {
+        "Activity": "Fishing",
+        "Description": "I've fished all over the world, from fly fishing, bass fishing to deep sea. Home waters are the rivers and streams around Brevard, NC. Not much beats catching a wild trout on a fly you designed and tied yourself."
+      },
+      {
+        "Activity": "Skiing",
+        "Description": "Love back-country skiing trips or just casual resort days with friends."
+      }
+    ]
+  },
+  "MusicInvolvement": {
+    "BandAchievements": [
+      {
+        "Year": 2023,
+        "Achievement": "I play drums. Made a band with some friends, mainly just as an outlet and for passion. Big influences are Smashing Pumpkins, Turnstile, Alice in Chains, Men I Trust, Bon Iver, Good Tiger, Half Moon Run, Local Natives, Foals, Soundgarden."
+      }
+    ]
+  },
+  "SportsEnthusiasm": {
+    "MemorableEvents": [
+      {
+        "Event": "Attended a Borussia Dortmund game in Germany",
+        "Year": 2011,
+        "Experience": "Fulfilling a lifelong dream of experiencing a live match of my favorite soccer team."
+      },
+      {
+        "Event": "Liverpool Game in England",
+        "Year": 2015,
+        "Experience": "Experienced the electrifying atmosphere of a Premier League game at Anfield."
+      }
+    ]
+  },
+  "CulinaryPassion": {
+    "CateringCompany": {
+      "Name": "Salamander Catering",
+      "Specialty": "Specializing in Asian x Mexican x American street food fusion, balancing creativity with accessibility through powerful flavors."
+    }
+  },
+  "TechCommunityInvolvement": {
+    "Events": [
+      {
+        "Event": "Monthly Tech Meetup Speaker",
+        "Role": "Sharing insights on the latest trends in software development and system architecture, hanging out with other tech enthusiasts and sharing information. Always a good time."
+      }
+    ]
+  },
+  "CoffeeConnoisseur": {
+    "Favorites": [
+      {
+        "Type": "Dark and Light Roasts",
+        "Description": "Enjoying different types of beans/styles and flavors."
+      }
+    ]
+  },
+  "Articles": [
+    {
+      "Title": "How did I navigate my early experiences in tech?",
+      "Introduction": "My evolution from my first experience in tech, to where I am now.",
+      "MainContent": "Various paragraphs describing the experience in tech.",
+      "ImageUrl": "https://yourimageurl.com/react-hooks.jpg",
+      "PublicationDate": "Updated: 2024-05-05"
+    },
+    {
+      "Title": "The Value of Sequence Diagrams for Early Software Engineers",
+      "Introduction": "How creating sequence diagrams helps me understand large, complex, enterprise systems.",
+      "MainContent": "Description of experience with sequence diagrams.",
+      "ImageUrl": "https://yourimageurl.com/sequence-diagrams.jpg",
+      "PublicationDate": "Coming soon"
+    },
+    {
+      "Title": "Zoomed out, then Zoomed In - 'Hooks' in Web Development",
+      "Introduction": "A brief history of the evolution of 'Hooks' in programming, and how they fit into modern web development (React, Angular, Vue)",
+      "MainContent": "Insights on hooks in web development.",
+      "ImageUrl": "https://yourimageurl.com/react-angular-hooks.jpg",
+      "PublicationDate": "Coming soon"
+    },
+    {
+      "Title": "Understanding JS' Async/Await in the context of Concurrency and Parallelism",
+      "Introduction": "(Re)Introducing yourself to asynchronous web development through the lens of concurrency and parallelism.",
+      "MainContent": "Discussion on async/await in JavaScript.",
+      "ImageUrl": "https://yourimageurl.com/async-await.jpg",
+      "PublicationDate": "Coming soon"
+    },
+    {
+      "Title": "A Dive into Webpack's Module Federation",
+      "Introduction": "Exploring Webpack's Module Federation, and its usage/importance in Micro Front-End (MFE) architectures.",
+      "MainContent": "Experiences with Webpack's Module Federation.",
+      "ImageUrl": "https://yourimageurl.com/module-federation.jpg",
+      "PublicationDate": "Coming soon"
+    }
+  ]
+}
