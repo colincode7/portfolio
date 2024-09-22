@@ -1,4 +1,4 @@
-This project was made by Suzuki Montaro - https://github.com/realparadise
+This project was made by Colin Campbell - https://github.com/colincode7
 
 ## Technologies:
 - [Next.js (Typescript, Pages router)](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app)
